@@ -7,17 +7,6 @@ The computational module consists of a deep learning model to identify vessel ty
 
 The developed model has high training & validation accuracy. 
 
-<img width="1311" alt="Screen Shot 2022-01-30 at 11 05 13 PM" src="https://user-images.githubusercontent.com/87992684/152078340-accfc764-be9c-4bde-9f04-d54b0374831a.png">
-
-High Precision and Recall.
-
-
-<img width="644" alt="Screen Shot 2022-02-01 at 7 21 08 PM" src="https://user-images.githubusercontent.com/87992684/152078462-78a19f4b-d0a2-426b-8ef5-7bfee0fe5452.png">
-
-
-Peformed well on test dataset.
-
-<img width="601" alt="Screen Shot 2022-02-01 at 7 21 57 PM" src="https://user-images.githubusercontent.com/87992684/152078528-48863c7e-7132-442f-b5e9-b2dc55108c61.png">
 
 
 Datasets used: Marvel Datasets (https://github.com/jeffreylancaster/marvel)
