@@ -7,7 +7,7 @@ The computational module consists of a deep learning model to identify vessel ty
 
 The developed model has high training & validation accuracy. 
 
-The python libarary: DEEPSEAS_VF
+The python libarary: DEEPSEAS-CODE_VF
 
 
 Datasets used: Marvel Datasets (https://github.com/jeffreylancaster/marvel)
